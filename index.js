@@ -13,7 +13,7 @@ const heading2 = React.createElement(
   {
     id: "title",
   },
-  "heding 2"
+  "Mrityunjay Kumar  2"
 );
 
 const container = React.createElement(
